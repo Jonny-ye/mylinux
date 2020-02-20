@@ -1,1 +1,2 @@
-text git config
+test git config
+
