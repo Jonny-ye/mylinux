@@ -1,2 +1,2 @@
 
-It' a personal storehouse of linux system config file.
+It' a personal config file storehouse of linux desktop.
