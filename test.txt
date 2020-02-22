@@ -1,3 +1,3 @@
 netease-cloud-music %U --force-device-scale-factor=1.25
 env WINEPREFIX="/home/jonny/.deepinwine/Deepin-TIM" deepin-wine winecfg
-
+护眼绿：204、237、207
