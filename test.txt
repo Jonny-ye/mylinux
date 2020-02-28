@@ -1,3 +1,18 @@
-netease-cloud-music %U --force-device-scale-factor=1.25
-env WINEPREFIX="/home/jonny/.deepinwine/Deepin-TIM" deepin-wine winecfg
+netease-cloud-music %U --force-device-scale-factor=1.10
+
+env WINEPREFIX="/home/jonny/.deepinwine/Deepin-QQ" deepin-wine winecfg
+
 护眼绿：204、237、207
+
+imwheel
+vim ~/.imwheelrc
+".*"
+None,      Up,   Button4, 3
+None,      Down, Button5, 3
+
+fcitx-im
+fcitx-configtool
+vim ~/.profile
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS="@im=fcitx"
